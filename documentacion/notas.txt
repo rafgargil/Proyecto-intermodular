@@ -1,0 +1,3 @@
+A crear reposito
+A usar comandos 
+A subirlo al git hub
