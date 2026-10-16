@@ -3,3 +3,8 @@ Hola, este es mi primer fichero usando Git.
 Mi nombre es rafa
 
 Estoy aprendiendo a utilizar Git
+
+
+El real Madrid es el mejor equipo de Europa 
+Es el rey de Europa
+Es el club del siglo 21
