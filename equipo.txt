@@ -1,2 +1,6 @@
 Ordenador utilizado : A822
-Sistema operativo : Windows 11
+Sistema operativo : Windows11
+
+La respuesta del 16 aquí
+
+En el primer git status esta modificado y no añadido y en el segundo esta añadido todo
