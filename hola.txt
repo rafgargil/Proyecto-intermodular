@@ -8,3 +8,5 @@ Estoy aprendiendo a utilizar Git
 El real Madrid es el mejor equipo de Europa 
 Es el rey de Europa
 Es el club del siglo 21
+
+Siguiendo con el ejercio 18, vamos a realizar un cambio.
