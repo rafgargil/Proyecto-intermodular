@@ -9,4 +9,6 @@ El real Madrid es el mejor equipo de Europa
 Es el rey de Europa
 Es el club del siglo 21
 
-Siguiendo con el ejercio 18, vamos a realizar un cambio.
+1 No aparecia el cambio antes del git push
+2 Si que aparece despues de haber ejecutado el git push
+3 Sirve para añadirlo al github
